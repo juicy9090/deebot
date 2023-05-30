@@ -1,0 +1,6 @@
+*.iml
+.idea/**
+*.jar
+*.txt
+*.json
+deemix/**
